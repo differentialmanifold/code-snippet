@@ -1,0 +1,8 @@
+*.pyc
+*.out
+*.err
+*.pickle
+__pycache__
+*~
+.idea/*
+*.DS_Store
